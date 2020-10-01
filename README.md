@@ -1,1 +1,3 @@
 # greetbot
+
+> For class
